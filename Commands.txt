@@ -1,0 +1,7 @@
+python -m venv venv
+venv/Scripts/Activate
+Set-ExecutionPolicy Unrestricted -Scope Process
+
+
+
+(venv) PS D:\LangChain\Tutorials> .\venv\Scripts\python -m pip install grandalf

@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "user_exp_length",
+        "user_exp_style",
+        "user_input_paper"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n                      Please summerize the research paper titled {user_input_paper} with the following style.\n                      Explaination Style : {user_exp_style}\n                      Explanation Length: {user_exp_length}\n                      1. Insclude Methametical Equations if available in paper and explain those methematical concepts using simple and intutive code snippets where applicable. \n                      2. Use relatable analogies to explain complex ideas.\n                      If certain information is not available the respond with \"Insufficient Information available\" rather then guessing it.\n                      Ensure summaery is clear, accurate and alogned with provided style and length.\n                      ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
