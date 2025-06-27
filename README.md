@@ -2,7 +2,7 @@
 
 A curated collection of **hands‑on notebooks and mini‑projects** that demonstrate how to build production‑ready Large Language‑Model (LLM) applications with the [LangChain](https://langchain.com/) framework.
 
-> **Why this repo?** I created these tutorials while deep‑diving into LangChain so that recruiters and future teammates can review the breadth of concepts I have mastered—and the quality standards I follow when shipping code.
+> **Why this repo?** I created these tutorials while deep‑diving into LangChain so that recruiters and future teammates can review the breadth of concepts I am mastering—and the quality standards I follow when writing code.
 
 ---
 
@@ -65,5 +65,5 @@ $ jupyter lab         # or `python src/example_rag_pipeline.py`
 I’m **Abdul Rehman**, a CS undergrad passionate about applied AI, ML, DL and generative AI. I built this repository as evidence of my practical skills and to land an internship where I can contribute to real‑world generative‑AI products. 
 
 * 💌 Reach me on [LinkedIn](https://www.linkedin.com/in/mani5100/) or via email m.abdulrehman.shoukat@gmail.com
-* 🗂 View other experiments in my [Generative‑AI portfolio]([https://github.com/mani5100](https://github.com/mani5100/Generative-AI))
+* 🗂 View other experiments in my [Generative‑AI portfolio](https://github.com/mani5100/Generative-AI)
 
