@@ -16,3 +16,5 @@ pypdf
 faiss-cpu
 tiktoken
 langchain_experimental
+requests
+streamlit
