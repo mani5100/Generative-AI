@@ -1,0 +1,3 @@
+fastest PDF Loader | PyMuPDFLoader
+Markdown Loader | UnstructuredMarkdownLoader
+JSON | JSON Loader
